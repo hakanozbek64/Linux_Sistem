@@ -1,2 +1,2 @@
-# Linux_SistemM-hendisligi
+# Linux_SistemMuhendisligi
 Udemy Sistem ve Network Mühendisligi Egitimi
